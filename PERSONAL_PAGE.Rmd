@@ -1,0 +1,15 @@
+---
+title: "José Antonio Taquía Gutiérrez"
+image: "familia.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/taquiajoseantonio"
+  - label: GitHub
+    url: "https://github.com/jtaquia"
+  - label: Email
+    url: "mailto:jose_taquia@hotmail.com"
+output:
+  postcards::jolla
+---
+ 
+Docente e Investigador en proyectos de innovación y transformación empresarial,con estudios de Doctorado en la Universidad Nacional Mayor de San Marcos .
